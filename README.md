@@ -12,7 +12,7 @@
 - Fully mobile-friendly and cross-browser compatible  
 
 ---
-
+  
 ## Tech Stack
 - **Frontend:** React, Vite  
 - **Styling:** TailwindCSS  
