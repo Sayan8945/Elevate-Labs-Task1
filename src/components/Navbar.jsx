@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 export default function Navbar() {   
-  const [isOpen, setIsOpen] = useState(false);  
+  const [isOpen, setIsOpen] = useState(false);    
     
   return (  
     <nav className="bg-white shadow-md fixed w-full z-50">
